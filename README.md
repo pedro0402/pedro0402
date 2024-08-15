@@ -14,7 +14,7 @@
    <img align="center" alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-
+   <img align="center" alt="PostgreSQL" src="https://icons8.com/icon/LwQEs9KnDgIo/postgresql" />
 <div><br/>
 
 Sou Pedro Henrique, estudante de Ciência da Computação e desenvolvedor apaixonado por transformar ideias em código. Com 20 anos, já acumulo projetos em Java, Python, e Spring, além de criar APIs que agregam valor real. Estou sempre em busca de novos desafios para expandir meu conhecimento em Java, PostgreSQL, e Spring Boot, com o objetivo de impactar positivamente o mundo através da tecnologia.
