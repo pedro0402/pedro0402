@@ -17,9 +17,7 @@
 
 <div><br/>
 
-Estudante de Ciência da Computação, apaixonado por tecnologia e
-por mudar vidas atráves da programação.<br/>
-Atualmente estudando Java.
+Sou Pedro Henrique, estudante de Ciência da Computação e desenvolvedor apaixonado por transformar ideias em código. Com 20 anos, já acumulo projetos em Java, Python, e Spring, além de criar APIs que agregam valor real. Estou sempre em busca de novos desafios para expandir meu conhecimento em Java, PostgreSQL, e Spring Boot, com o objetivo de impactar positivamente o mundo através da tecnologia.
 
 ## Contato:
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/pedro693.ph@gmail.com)
