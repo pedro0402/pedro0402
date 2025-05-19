@@ -14,6 +14,9 @@
    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+   <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+   <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
 <div><br/>
 
 Sou aluno de Ciência da Computação e desenvolvedor em formação. Estou aqui para compartilhar meus repositórios, mostrando meus projetos acadêmicos e pessoais. Atualmente, meu foco de estudo é Java e o framework Spring, com os quais já desenvolvi alguns projetos. Sinta-se à vontade para visitar meus repositórios.
